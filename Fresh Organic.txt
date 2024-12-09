@@ -1,0 +1,59 @@
+  "catId": "25f26291-a5c7-441e-96a4-9b64925b792b",
+              "catName": "Fresh air system",
+
+ "catId": "d4a1470b-ccc9-4004-9e0d-74d66df95dd0",
+              "catName": "Fresh-keeping bag",
+
+"catId": "03f5200c-6c9b-4a59-a16f-04b54705eff0",
+              "catName": "Freshly stewed bird's nest",
+
+"catId": "2db55b86-0e3b-4cdf-b199-92908570c65f",
+              "catName": "Fresh flowers of life",
+
+"catId": "6f194085-e6ce-4df6-b576-8b1c385367a6",
+      "catName": "Fresh produce",
+
+
+"catId": "6b102557-362f-4d68-a5c5-5ce129edbfaf",
+              "catName": "Fresh mushrooms",
+
+"catId": "50fbadb0-51ce-40fa-90fb-fb2c2a670f99",
+              "catName": "Fresh cake",
+
+"catId": "4c31f0d1-dc90-4b0c-b740-6531c41464c8",
+              "catName": "fresh-keeping box",
+
+"catId": "55dc41f0-2038-49cc-bee3-4e2c5c6a3e04",
+              "catName": "Organic fertilizer",
+
+"catId": "9ad1b11c-9cc2-4ac3-84ad-2197c8d9cff9",
+              "catName": "Organic chemical raw materials",
+
+ "catId": "ee4ad61e-c4fb-40c8-83d5-0300f5568af1",
+              "catName": "Inorganic chemical raw materials",
+
+  "catId": "631dcd70-487e-4715-bf21-25083cc361f0",
+              "catName": "organic milk",
+
+   "catId": "5e892cc8-746d-4367-8d77-7eb2f910e8b7",
+              "catName": "organic food",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

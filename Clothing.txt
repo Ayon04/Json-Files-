@@ -1,0 +1,188 @@
+ "catId": "bb68588b-25ed-4772-93f7-91cbe2dd7bd3",
+              "catName": "pet shoes, pet clothing",
+
+ "catId": "c8adb083-17e7-4876-8c05-97ab259fdbfc",
+              "catName": "Clothing care machine",
+
+ "catId": "f5e59c0f-c5ef-4db2-8582-66bbc99cf54f",
+              "catName": "Hygiene clothing sterilizer",
+
+    "catId": "f9ce6cb4-ccfe-4481-aa5b-6d8ae5df460e",
+              "catName": "Clothing cleaning",
+
+      "catId": "76b5c29a-5917-4234-8566-2dc6dc0eeba1",
+      "catName": "clothing, lingerie",
+
+ "catId": "0483198c-3dd8-4f8a-b314-e36d1ff60868",
+          "catName": "Women's clothing",
+
+ "catId": "495d8876-0fb6-4c75-9dfa-4debd2d6732a",
+              "catName": "Fashionable sun protection clothing",
+
+ "catId": "c3158e0d-390d-4d91-92bb-d69d7bd2ad76",
+              "catName": "Plus-size women's clothing",
+
+   "catId": "920784ac-04cc-45ed-a9ed-008002e7eebe",
+              "catName": "Middle-aged and elderly women's clothing",
+
+  "catId": "4e042d79-9c26-43e4-9f9b-af295e85823d",
+              "catName": "women's clothing set",
+
+
+  "catId": "2ffd36d7-933a-41fc-aeb5-8d3fdd03b08a",
+              "catName": "Clothing care and maintenance",
+
+ "catId": "fb2e840b-a45e-434c-9ef9-5b8ae847b3eb",
+          "catName": "Men's clothing",
+
+ "catId": "641d35a2-bfd4-45ec-b98e-bf883423721b",
+              "catName": "Men's clothing for middle-aged and elderly.",
+
+  "catId": "0ebc488e-dfc0-4067-96d5-ce9409886f55",
+              "catName": "Plus-size men's clothing",
+
+ "catId": "6250a609-36ce-41f7-a038-922aac63213d",
+          "catName": "Clothing accessories",
+
+ "catId": "dd893e25-dba8-4658-8407-e0f6c144facf",
+              "catName": "Base layer clothing",
+
+ "catId": "1bd7b62b-eb1b-4b64-9097-aea763c679c0",
+              "catName": "Clothing storage bag",
+
+   "catId": "52f01e9f-e173-4e86-817b-fc8317acc73d",
+              "catName": "Clothing storage rack",
+
+"catId": "41f227c1-991a-40b7-8fd7-d38b7d89a8bf",
+              "catName": "Clothing storage organizer box",
+
+"catId": "69d2725c-c4b9-4832-a35f-98d3ddc1758a",
+              "catName": "Plastic clothing storage box",
+
+"catId": "42f37dfd-29f7-4621-8ad3-11150fa7a778",
+              "catName": "Clothing dust cover",
+
+"catId": "df0ee4cf-411f-47a5-9dcc-c1e05b6b74c6",
+              "catName": "clothing storage cabinet",
+
+"catId": "011a8952-7f48-4f7f-bb07-8131b5dd0b2f",
+              "catName": "Clothing, apparel",
+
+ "catId": "b1846657-665f-443d-aa04-9735afdc2ded",
+              "catName": "clothing store furniture",
+
+ "catId": "bbbf9746-f187-4cec-b630-349a83669718",
+              "catName": "Car clothing rack",
+
+   "catId": "3430570e-f3e4-47e6-a989-858ffaf36268",
+          "catName": "Second-hand women's clothing",
+
+    "catId": "9bf3d583-9a0b-4355-957e-21b073992902",
+              "catName": "second-hand clothing, pre-owned apparel",
+
+   "catId": "c9bd97b2-7f08-44c9-be00-425445a9c0c0",
+          "catName": "Children's clothing",
+
+ "catId": "91f3cc8c-2474-4723-a475-d2290c626c63",
+              "catName": "Children's cotton clothing",
+
+"catId": "1a43575a-8cc1-4232-aad7-386a4fb2c6ba",
+              "catName": "Children's Hanfu, Ethnic Clothing",
+
+ "catId": "73718f0f-d0aa-421a-b8d9-97caf7555de7",
+              "catName": "Radiation protection clothing",
+
+ "catId": "f84787a2-fca6-4d52-8a28-8936ef5f7938",
+          "catName": "outdoor footwear, outdoor clothing",
+
+  "catId": "4acccf97-b737-440e-a3d6-48de23493ee9",
+              "catName": "quick-dry clothing and pants",
+
+    "catId": "0e84abe2-3d7a-49ad-ad8a-5c358f824a9b",
+              "catName": "casual clothing, casual pants",
+
+     "catId": "0a92d5bf-0288-43db-9f07-fa3e170a6ca5",
+              "catName": "outdoor sunscreen clothing"
+
+  "catId": "9e508034-37ba-419f-b19a-eb62e80d791e",
+              "catName": "fitness clothing",
+
+ "catId": "789804fa-85b8-4d03-be6d-54c36e9346c8",
+              "catName": "Compression clothing, fitted wear",
+
+  "catId": "0dbda42d-0afa-428b-b7df-9bd5340776ab",
+          "catName": "Clothing cleaning",
+
+  "catId": "c0339274-eadf-4ac5-bd0c-3f0803d6242a",
+              "catName": "Other clothing cleaning",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

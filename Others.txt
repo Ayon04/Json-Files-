@@ -1,0 +1,620 @@
+"catId": "3e7b78cf-e6b8-4d2d-b40f-8789f5898a1a",
+      "catName": "toy instruments",
+
+"catId": "95d3d4ae-0d4a-474a-9e07-d9cbcbd2925b",
+          "catName": "Western wind instruments",
+
+ "catId": "93de8007-3a05-4aad-8748-ea3a41a74e95",
+              "catName": "large size,",
+
+
+"catId": "8fa7904c-832c-406e-8705-acbb387ca0cd",
+              "catName": "Saxophone",
+
+ "catId": "324ccabf-7f1b-4641-8ac7-180e8dbd92b8",
+              "catName": "Recorder",
+
+
+ "catId": "5d5e928c-7636-40a4-b548-0b45695b77d3",
+              "catName": "Bassoon, Contrabassoon",
+
+ "catId": "acafd1fb-4171-4bfa-80ee-63117dca7b4e",
+              "catName": "Flute",
+
+"catId": "6efd6627-1af1-4156-b605-0094f15fb15c",
+              "catName": "long number",
+
+ "catId": "9cde00ad-7616-4c90-8777-69a3fd6bca3d",
+              "catName": "Clarinet, Oboe",
+
+ "catId": "5175920d-392d-449c-a908-4099733d5f7b",
+              "catName": "Harmonica",
+
+ "catId": "fc923895-5116-4c8c-8185-dd3c037c0985",
+              "catName": "Piccolo",
+
+"catId": "84806979-7f47-48bb-9978-f503b39b56d7",
+              "catName": "trumpet",
+
+ "catId": "1e6a3e51-0d9a-44fd-935d-cfdd589bc269",
+              "catName": "Other Western wind instruments",
+
+
+
+"catId": "75bbf4e3-1240-40cf-88d1-f00309610354",
+              "catName": "French horn",
+
+ "catId": "89153183-7eaa-45fd-904a-06ff6f0687e6",
+              "catName": "electric blowpipe",
+
+
+"catId": "8f9bdb0f-ca75-47e6-91ec-16735d0f5666",
+          "catName": "Oil-powered/Electric model",
+
+
+"catId": "f07e0cf8-62e9-4599-bf4c-d01881afd720",
+              "catName": "helicopter",
+
+ "catId": "24ec2280-828d-4d21-a54b-b8b3e19f6883",
+              "catName": "fixed-wing",
+
+
+"catId": "e6f4154b-f02a-4cd7-958d-194557432203",
+              "catName": "Tank",
+
+
+"catId": "20a5b994-1a56-44b5-a6e3-ca33bc532a75",
+              "catName": "model ship",
+
+
+   "catId": "5832b8c9-97c1-443c-8d37-f1ae601125a0",
+          "catName": "Pretend play toys, imaginative play toys",
+
+"catId": "1f11ce2c-3cac-4be0-8919-1ed9ca975bbd",
+              "catName": "simulated camera",
+
+ "catId": "3769b3ce-a1f0-48ed-adb8-3dbb376ddd98",
+              "catName": "Children's realistic animal toys",
+
+  "catId": "78d7ab6b-5657-4b9c-a40d-a0ded5780e93",
+              "catName": "Take a closer look.",
+
+"catId": "1a1ae9c5-fac5-42ab-8893-b03a9ec42e95",
+              "catName": "pretend play toys",
+
+
+
+  "catId": "2b74edc2-b4d0-4fea-a2f6-6b109ab5ff0f",
+              "catName": "Musical toys, children's instruments",
+
+"catId": "1b3507e6-ba9f-47d0-9dfa-7aef059aef49",
+              "catName": "water play toys, sand play toys",
+
+ "catId": "22dd5ce6-ae4e-4135-a22e-7b69ae9c0973",
+              "catName": "Pretend play toys, imaginative play toys",
+
+"catId": "eb8044c7-eeec-4022-85c1-f106421a3277",
+              "catName": "Doll toys",
+
+"catId": "b3515c66-2d26-49c0-b931-ea8d02235178",
+          "catName": "Remote control model, toy gun",
+
+
+ "catId": "caaf2bb0-6af4-4f72-a62c-ad76317b724f",
+              "catName": "Toy gun for children",
+
+
+
+  "catId": "b187fbb9-b0d8-47d7-945d-89b66bd25686",
+              "catName": "Remote-controlled, electric toys",
+
+
+ "catId": "88653c0a-f378-441d-8753-e05eebfb9ac1",
+              "catName": "static model",
+
+
+ "catId": "463620f8-7c1b-49f5-abac-c52f499194ce",
+          "catName": "Creative Stress Relief",
+
+
+"catId": "c37503c2-6125-44f3-901a-63f0bb0aa40b",
+              "catName": "Creative toys",
+
+"catId": "e7f33f12-95c8-4f69-9367-86e8d1c1f5a5",
+              "catName": "Stress-relief toys",
+
+
+"catId": "b3658a55-aca7-406b-b0b3-f9de514a4875",
+          "catName": "Transforming toy for children 1",
+
+ "catId": "925d3780-69d7-465e-bf34-49d8606b80ad",
+              "catName": "Children's transforming toys",
+
+"catId": "c7ca6e0e-33ac-49ec-97b2-71f216709960",
+          "catName": "Western percussion instruments",
+
+ "catId": "e90b680a-ab42-420b-9419-3960ae119356",
+              "catName": "Other Western percussion instruments",
+
+ "catId": "7e1160f2-4f60-432e-99e0-e7a151cf5d83",
+              "catName": "silent drum",
+
+ "catId": "dab493ac-91bd-44ac-8a24-855a611f1a79",
+              "catName": "Drum kit, jazz drums",
+
+ "catId": "f15c269e-1cd7-4d75-ab32-e42327113a5e",
+              "catName": "Cajón, Box Drum",
+
+ "catId": "bd350238-6e19-4d89-b57f-efd6d1fdb40f",
+              "catName": "snare drum",
+
+    "catId": "41d91b31-4c99-447f-bb6f-a0dc3584a4a4",
+              "catName": "Kalimba, thumb piano",
+
+"catId": "8d4d5898-6439-4318-82bd-28df1f9faed9",
+              "catName": "African drum",
+
+"catId": "5af3a961-3ed9-47d0-abce-4c8f4f1943d0",
+          "catName": "Toy gun for children",
+
+"catId": "3d51b988-73a7-4178-afc2-00cf501aa9ef",
+              "catName": "Electric sound and light toy gun",
+
+
+ "catId": "f999043f-e531-4aa7-b49a-150f8252c507",
+              "catName": "soft bullet gun",
+
+
+ "catId": "11a1498c-f16d-452c-9504-cb676b1fef41",
+          "catName": "Bead stringing/pairing toys",
+
+ "catId": "a066d767-0166-41e4-8634-96ccff1308d8",
+              "catName": "Fishing toy",
+
+
+ "catId": "dfd01b4f-d7f8-47e6-8b51-6a718f397740",
+              "catName": "Digital Shape Box, Porous Cognition",
+
+ "catId": "1b4e06c5-634d-4270-a821-e9ca74eb6788",
+              "catName": "children's bead stringing/bead threading",
+
+ "catId": "21b9c5e3-0573-44bf-ada8-41e58496822f",
+              "catName": "Bead insertion, mushroom pin insertion.",
+
+"catId": "1fbbad7f-6c5b-4f86-8bd4-0284bbc418c1",
+          "catName": "Rubik's Cube unlock/Maze",
+
+
+  "catId": "f729e53f-1c29-4bf9-be0f-419f18ee7033",
+              "catName": "Unlocking/Unraveling Toys",
+
+"catId": "f23cdbad-755e-4009-80d8-75468913793d",
+              "catName": "Intellectual puzzle toys, escape room toys",
+
+ "catId": "2f017e3c-c0c3-4474-9cb8-1d84766b450c",
+              "catName": "Maze type",
+
+"catId": "73b401ae-5740-4c3e-b31c-1d10baa8ad31",
+          "catName": "Doll toys",
+
+"catId": "ad6305c0-92bc-4d61-a214-5f4079069940",
+              "catName": "Dress-up dolls",
+
+ "catId": "eafd5565-fd02-4eab-af8c-acddef73bf2b",
+              "catName": "cartoon doll",
+
+"catId": "0e4cdb82-8787-42db-a542-882251dd51b1",
+          "catName": "Infant and toddler toys",
+
+"catId": "aa168725-20e7-4cb1-aae5-57f5d822ffac",
+              "catName": "Assembly/disassembly, pounding, bead stringing, matching toys",
+
+"catId": "cf7a78ea-2c46-4651-9eb3-0aafe5b21f6f",
+              "catName": "Inertia / wind-up toys",
+
+"catId": "752649dd-97a5-4a5c-8157-3f90416bc243",
+              "catName": "fitness, crawling, walking toys",
+
+   "catId": "9120db66-04b0-431f-bfe6-621a5b952b92",
+              "catName": "Ringing toys, soothing toys",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php
+
+$categoryData = [
+    [
+        "catId" => "3e7b78cf-e6b8-4d2d-b40f-8789f5898a1a",
+        "catName" => "toy instruments",
+    ],
+    [
+        "catId" => "95d3d4ae-0d4a-474a-9e07-d9cbcbd2925b",
+        "catName" => "Western wind instruments",
+    ],
+    [
+        "catId" => "93de8007-3a05-4aad-8748-ea3a41a74e95",
+        "catName" => "large size,",
+    ],
+    [
+        "catId" => "8fa7904c-832c-406e-8705-acbb387ca0cd",
+        "catName" => "Saxophone",
+    ],
+    [
+        "catId" => "324ccabf-7f1b-4641-8ac7-180e8dbd92b8",
+        "catName" => "Recorder",
+    ],
+    [
+        "catId" => "5d5e928c-7636-40a4-b548-0b45695b77d3",
+        "catName" => "Bassoon, Contrabassoon",
+    ],
+    [
+        "catId" => "acafd1fb-4171-4bfa-80ee-63117dca7b4e",
+        "catName" => "Flute",
+    ],
+    [
+        "catId" => "6efd6627-1af1-4156-b605-0094f15fb15c",
+        "catName" => "long number", 
+    ], // Corrected "long number" to be within the array
+    [
+        "catId" => "9cde00ad-7616-4c90-8777-69a3fd6bca3d",
+        "catName" => "Clarinet, Oboe",
+    ],
+    [
+        "catId" => "5175920d-392d-449c-a908-4099733d5f7b",
+        "catName" => "Harmonica",
+    ],
+    [
+        "catId" => "fc923895-5116-4c8c-8185-dd3c037c0985",
+        "catName" => "Piccolo",
+    ],
+    [
+        "catId" => "84806979-7f47-48bb-9978-f503b39b56d7",
+        "catName" => "trumpet",
+    ],
+    [
+        "catId" => "1e6a3e51-0d9a-44fd-935d-cfdd589bc269",
+        "catName" => "Other Western wind instruments",
+    ],
+    [
+        "catId" => "75bbf4e3-1240-40cf-88d1-f00309610354",
+        "catName" => "French horn",
+    ],
+    [
+        "catId" => "89153183-7eaa-45fd-904a-06ff6f0687e6",
+        "catName" => "electric blowpipe",
+    ],
+      [
+        "catId" => "8f9bdb0f-ca75-47e6-91ec-16735d0f5666",
+        "catName" => "Oil-powered/Electric model",
+    ],
+    [
+        "catId" => "f07e0cf8-62e9-4599-bf4c-d01881afd720",
+        "catName" => "helicopter",
+    ],
+    [
+        "catId" => "24ec2280-828d-4d21-a54b-b8b3e19f6883",
+        "catName" => "fixed-wing",
+    ],
+    [
+        "catId" => "e6f4154b-f02a-4cd7-958d-194557432203",
+        "catName" => "Tank",
+    ],
+    [
+        "catId" => "20a5b994-1a56-44b5-a6e3-ca33bc532a75",
+        "catName" => "model ship",
+    ],
+    [
+        "catId" => "5832b8c9-97c1-443c-8d37-f1ae601125a0",
+        "catName" => "Pretend play toys, imaginative play toys",
+    ],
+    [
+        "catId" => "1f11ce2c-3cac-4be0-8919-1ed9ca975bbd",
+        "catName" => "simulated camera",
+    ],
+    [
+        "catId" => "3769b3ce-a1f0-48ed-adb8-3dbb376ddd98",
+        "catName" => "Children's realistic animal toys",
+    ],
+    [
+        "catId" => "78d7ab6b-5657-4b9c-a40d-a0ded5780e93",
+        "catName" => "Take a closer look.",
+    ],
+    [
+        "catId" => "1a1ae9c5-fac5-42ab-8893-b03a9ec42e95",
+        "catName" => "pretend play toys",
+    ],
+    [
+        "catId" => "2b74edc2-b4d0-4fea-a2f6-6b109ab5ff0f",
+        "catName" => "Musical toys, children's instruments",
+    ],
+    [
+        "catId" => "1b3507e6-ba9f-47d0-9dfa-7aef059aef49",
+        "catName" => "water play toys, sand play toys",
+    ],
+    [
+        "catId" => "22dd5ce6-ae4e-4135-a22e-7b69ae9c0973",
+        "catName" => "Pretend play toys, imaginative play toys",
+    ],
+    [
+        "catId" => "eb8044c7-eeec-4022-85c1-f106421a3277",
+        "catName" => "Doll toys",
+    ],
+    [
+        "catId" => "b3515c66-2d26-49c0-b931-ea8d02235178",
+        "catName" => "Remote control model, toy gun",
+    ],
+    [
+        "catId" => "caaf2bb0-6af4-4f72-a62c-ad76317b724f",
+        "catName" => "Toy gun for children",
+    ],
+    [
+        "catId" => "b187fbb9-b0d8-47d7-945d-89b66bd25686",
+        "catName" => "Remote-controlled, electric toys",
+    ],
+    [
+        "catId" => "88653c0a-f378-441d-8753-e05eebfb9ac1",
+        "catName" => "static model",
+    ],
+    [
+        "catId" => "463620f8-7c1b-49f5-abac-c52f499194ce",
+        "catName" => "Creative Stress Relief",
+    ],
+    [
+        "catId" => "c37503c2-6125-44f3-901a-63f0bb0aa40b",
+        "catName" => "Creative toys",
+    ],
+    [
+        "catId" => "e7f33f12-95c8-4f69-9367-86e8d1c1f5a5",
+        "catName" => "Stress-relief toys",
+    ],
+    [
+        "catId" => "b3658a55-aca7-406b-b0b3-f9de514a4875",
+        "catName" => "Transforming toy for children 1",
+    ],
+    [
+        "catId" => "925d3780-69d7-465e-bf34-49d8606b80ad",
+        "catName" => "Children's transforming toys",
+    ],
+    [
+        "catId" => "c7ca6e0e-33ac-49ec-97b2-71f216709960",
+        "catName" => "Western percussion instruments",
+    ],
+    [
+        "catId" => "e90b680a-ab42-420b-9419-3960ae119356",
+        "catName" => "Other Western percussion instruments",
+    ],
+    [
+        "catId" => "7e1160f2-4f60-432e-99e0-e7a151cf5d83",
+        "catName" => "silent drum",
+    ],
+    [
+        "catId" => "dab493ac-91bd-44ac-8a24-855a611f1a79",
+        "catName" => "Drum kit, jazz drums",
+    ],
+    [
+        "catId" => "f15c269e-1cd7-4d75-ab32-e42327113a5e",
+        "catName" => "Cajón, Box Drum",
+    ],
+    [
+        "catId" => "bd350238-6e19-4d89-b57f-efd6d1fdb40f",
+        "catName" => "snare drum",
+    ],
+    [
+        "catId" => "41d91b31-4c99-447f-bb6f-a0dc3584a4a4",
+        "catName" => "Kalimba, thumb piano",
+    ],
+    [
+        "catId" => "8d4d5898-6439-4318-82bd-28df1f9faed9",
+        "catName" => "African drum",
+    ],
+    [
+        "catId" => "5af3a961-3ed9-47d0-abce-4c8f4f1943d0",
+        "catName" => "Toy gun for children",
+    ],
+    [
+        "catId" => "3d51b988-73a7-4178-afc2-00cf501aa9ef",
+        "catName" => "Electric sound and light toy gun",
+    ],
+     [
+        "catId" => "f999043f-e531-4aa7-b49a-150f8252c507",
+        "catName" => "soft bullet gun",
+    ],
+    [
+        "catId" => "11a1498c-f16d-452c-9504-cb676b1fef41",
+        "catName" => "Bead stringing/pairing toys",
+    ],
+    [
+        "catId" => "a066d767-0166-41e4-8634-96ccff1308d8",
+        "catName" => "Fishing toy",
+    ],
+    [
+        "catId" => "dfd01b4f-d7f8-47e6-8b51-6a718f397740",
+        "catName" => "Digital Shape Box, Porous Cognition",
+    ],
+    [
+        "catId" => "1b4e06c5-634d-4270-a821-e9ca74eb6788",
+        "catName" => "children's bead stringing/bead threading",
+    ],
+    [
+        "catId" => "21b9c5e3-0573-44bf-ada8-41e58496822f",
+        "catName" => "Bead insertion, mushroom pin insertion.",
+    ],
+    [
+        "catId" => "1fbbad7f-6c5b-4f86-8bd4-0284bbc418c1",
+        "catName" => "Rubik's Cube unlock/Maze",
+    ],
+    [
+        "catId" => "f729e53f-1c29-4bf9-be0f-419f18ee7033",
+        "catName" => "Unlocking/Unraveling Toys",
+    ],
+    [
+        "catId" => "f23cdbad-755e-4009-80d8-75468913793d",
+        "catName" => "Intellectual puzzle toys, escape room toys",
+    ],
+    [
+        "catId" => "2f017e3c-c0c3-4474-9cb8-1d84766b450c",
+        "catName" => "Maze type",
+    ],
+    [
+        "catId" => "73b401ae-5740-4c3e-b31c-1d10baa8ad31",
+        "catName" => "Doll toys",
+    ],
+    [
+        "catId" => "ad6305c0-92bc-4d61-a214-5f4079069940",
+        "catName" => "Dress-up dolls",
+    ],
+    [
+        "catId" => "eafd5565-fd02-4eab-af8c-acddef73bf2b",
+        "catName" => "cartoon doll",
+    ],
+    [
+        "catId" => "0e4cdb82-8787-42db-a542-882251dd51b1",
+        "catName" => "Infant and toddler toys",
+    ],
+    [
+        "catId" => "aa168725-20e7-4cb1-aae5-57f5d822ffac",
+        "catName" => "Assembly/disassembly, pounding, bead stringing, matching toys",
+    ],
+    [
+        "catId" => "cf7a78ea-2c46-4651-9eb3-0aafe5b21f6f",
+        "catName" => "Inertia / wind-up toys",
+    ],
+    [
+        "catId" => "752649dd-97a5-4a5c-8157-3f90416bc243",
+        "catName" => "fitness, crawling, walking toys",
+    ],
+    [
+        "catId" => "9120db66-04b0-431f-bfe6-621a5b952b92",
+        "catName" => "Ringing toys, soothing toys",
+    ],
+    
+
+
+];
+
+
+
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

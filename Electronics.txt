@@ -1,0 +1,130 @@
+  "catId": "cc5fe3ab-6123-47ca-9eca-e515d2614a22",
+          "catName": "Electronics and Communication",
+
+   "catId": "292ca53a-28b5-410a-99ca-8c1dbdfd77b4",
+              "catName": "Microelectronics, Integrated Circuits (IC);",
+  
+
+"catId": "c995cfd9-6131-4ad8-8b5c-61f4cd4d4c44",
+              "catName": "Electronic drum",
+
+  "catId": "8472ddb9-d11f-44fb-8a7d-1712be667035",
+              "catName": "electronic keyboard",
+
+ "catId": "38d03f64-72e6-40cb-b74d-bccd6ff4d07e",
+              "catName": "electronic dictionary",
+
+"catId": "517b675e-f5b6-4e11-a9fb-821cdf225607",
+              "catName": "Electronic keyboard",
+
+"catId": "ff645232-35d2-4b11-88f8-2b22db512822",
+              "catName": "electronic scale",
+
+ "catId": "2eca77f1-3f28-458b-ae97-93f7933a2000",
+              "catName": "electronic lock",
+
+ "catId": "07bd345e-befc-4918-a329-26f2ebbd7b6f",
+              "catName": "electronic dictionary, dictionary pen",
+
+          "catId": "fa108736-a1f6-462d-8291-9fecd8f37222",
+          "catName": "Electronic connector",
+
+
+"catId": "faeaffe4-237b-4552-bab9-00f2c2fe9e31",
+              "catName": "Electronic and electrical instruments",
+
+  "catId": "94a6ed38-bae9-4611-aa49-5fd8f9bb53f1",
+              "catName": "electronic capacitor",
+
+ "catId": "a6afe5b4-ec9d-406e-8d85-2b4649698b5d",
+              "catName": "Electronic antenna",
+
+  "catId": "e6ce7447-d9e1-44ab-b008-95ac897d7c17",
+              "catName": "Electronic transformer",
+
+      "catId": "2aad8837-e213-4ca1-8d9e-0a616076a743",
+              "catName": "EEPLD, Electronic Erasable Programmable Logic Device",
+
+  "catId": "3c997ea0-4d1a-4a44-94aa-922340976baa",
+              "catName": "Electronic battery",
+
+ "catId": "fee6d587-d2d3-43c9-94d4-ce163d945b6d",
+              "catName": "Electronic switch",
+
+"catId": "06304a63-adbc-4e29-bd01-0791b7f5f52e",
+              "catName": "Electronic components, assemblies",
+
+ "catId": "ba31f458-28c2-4250-a20e-e2a22728b98d",
+              "catName": "Optoelectronic technology, laser technology",
+
+"catId": "c99896e0-b846-4989-baa7-81e20da1e54c",
+              "catName": "Electronic countermeasures (jamming and anti-jamming)",
+
+   "catId": "4a947112-4ef8-477e-b0d2-606be15e487a",
+              "catName": "Basic electronic circuits",
+
+  "catId": "07fe73e9-b429-433c-8bce-4e01fa1ecb9d",
+              "catName": "Electronic gifts",
+
+  "catId": "7be3cd70-cc5a-4c49-9d4e-484e7be90a1c",
+              "catName": "Electronic aromatherapy",
+
+  "catId": "25537693-b273-4eab-a1ba-ec6dbe5f58c6",
+              "catName": "Electronic modifications",
+
+"catId": "3c0b6dbb-c1a1-4c0b-9aa6-cba2de7cc9c1",
+              "catName": "Military and police vehicle electronic appliances,",
+
+ "catId": "bf3d248f-9c0e-43f2-a0c4-02416b912798",
+          "catName": "Second-hand electronic education;",
+
+    "catId": "c9a0b37a-fd93-4c6a-8a52-1cc9fc19252c",
+              "catName": "second-hand electronic dictionary",
+
+   "catId": "da23b928-e4ce-4a14-b5ee-bfc8added8db",
+              "catName": "Used electronic communication books",
+
+"catId": "2ef13c4b-4c88-4ee2-9297-b258a4f83437",
+              "catName": "second-hand electronic piano",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

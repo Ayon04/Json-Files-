@@ -1,0 +1,110 @@
+"catId": "dd9e74cd-0a04-4559-a8ad-5444169ca991",
+              "catName": "beauty tools, beauty instruments, cosmetic tools",
+
+  "catId": "5acb4862-fdcf-4237-968e-bbcf74744993",
+              "catName": "beauty devices",
+
+"catId": "8bd074fb-a99c-424b-9ecf-58e1b259d996",
+              "catName": "Beauty device",
+
+"catId": "048a3ce5-4c87-4b4e-99bf-8ba58388e7b5",
+          "catName": "Beauty care",
+
+ "catId": "5cc97383-4f6e-4317-a141-78e2b1465b3c",
+              "catName": "Beauty care",
+
+  "catId": "a9269a67-9f8d-43a7-9c1d-fa2eec399324",
+              "catName": "Beauty and skincare",
+
+ "catId": "55253b01-722a-468a-81d5-8634ba5e190d",
+          "catName": "Beauty care, antioxidant.",
+
+"catId": "d29e76c3-bc95-4d2c-99f4-aa42b7743375",
+              "catName": "Medical beauty care",
+
+  "catId": "d52c5eba-a86b-42b6-b0ff-5ff6057c5a0f",
+          "catName": "Beauty tools",
+
+ "catId": "503a78a8-ccd5-4906-9868-c3c15a3bcb61",
+              "catName": "Other beauty tools",
+
+"catId": "e8c3f842-62a2-4f14-9de0-3d48dcd888b5",
+              "catName": "Beauty and weight loss",
+
+"catId": "31f75f81-010a-4b92-a08e-2a9abb76cd3b",
+              "catName": "Beauty styling",
+
+"catId": "b1162f49-43db-44dc-8b4d-f0532ba4a5f3",
+              "catName": "Beauty and skincare",
+
+ "catId": "4ae057e3-1ef5-43e1-88ad-60335c8bf951",
+              "catName": "Beauty gift",
+
+  "catId": "37af1c20-449e-4adb-ab93-72f75886476f",
+              "catName": "Hair salon / Beauty furniture",
+
+ "catId": "b683928a-99dc-4de2-8b9f-e0f82e8bcf4d",
+          "catName": "Beauty cleansing",
+
+  "catId": "bee6c16a-744b-4b70-92b2-9c73285893fe",
+              "catName": "Cleansing, Beauty Treatment",
+
+  "catId": "7dbcd1ba-c036-4185-bfda-c006ebab57a2",
+              "catName": "Second-hand beauty devices",
+
+"catId": "58f9e370-769e-4a25-843d-1b916c976800",
+          "catName": "Hair care, skin care, beauty.",
+
+  "catId": "e9280295-8f0f-4200-bbf4-47407445b61d",
+              "catName": "Regulate menstruation and enhance beauty.",
+
+ "catId": "7836dd15-0ac9-40c8-adb9-0da2761f3b6f",
+      "catName": "Beauty, skincare",
+
+ "catId": "fb48249d-5c74-4fbf-9029-8b9086d113e6",
+              "catName": "Fashion, Beauty",
+
+   "catId": "8777383b-f516-4766-84fc-3e7b498957b5",
+          "catName": "Fashion, Beauty",
+
+ "catId": "16264430-a396-4a37-a1d6-15e74ebdfd2c",
+              "catName": "Fashion, Beauty",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

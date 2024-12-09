@@ -1,0 +1,340 @@
+"catId": "c3e7cd8b-6ef7-4ee6-a3af-d19ca7877d50",
+          "catName": "cat food",
+
+ "catId": "d5610554-9d7d-4594-99fa-14b670a21e98",
+              "catName": "Cat wet food, staple canned food",
+
+ "catId": "daf1b4de-3bc6-446f-b169-ad39c79af863",
+          "catName": "Pet food, pet supplies",
+
+ "catId": "fb1d57d4-0df8-46a4-a361-f1ceb88995ce",
+          "catName": "Pet food, pet staple food",
+
+   "catId": "fe2641bb-2ae7-4cef-bce3-ebe9c71e281f",
+              "catName": "cat dry food",
+
+"catId": "f937d171-eae3-4168-be44-2c58f0552660",
+              "catName": "dog food",
+
+"catId": "fe0d202e-77bb-4871-a2b1-6dc252a98c1e",
+              "catName": "dog food cans",
+
+  "catId": "1578dc5e-eba0-43f2-86f0-7e5ec81a32a5",
+              "catName": "Cat food canned",
+
+   "catId": "e37eacd7-3d70-412f-a883-7b90d0e8f2a4",
+              "catName": "Prescription cat food",
+
+   "catId": "1285be97-b5f7-4be1-ac55-bc8f2e0c436c",
+              "catName": "Prescription dog food",
+
+ "catId": "c49eccb5-1e98-40c5-89bc-f4321e0c587f",
+          "catName": "Cat and dog staple food",
+
+ "catId": "dacf6f38-54e7-422f-989e-5e7d5efb04f1",
+              "catName": "cat wet food",
+
+"catId": "4ac60182-cdbb-4b31-90ca-e374a64e8499",
+              "catName": "Food dehydrator",
+
+"catId": "36014de6-43ef-420a-8a3b-5f748d422e7b",
+              "catName": "Electric food cart",
+
+"catId": "3830f81e-bf67-4450-a48c-ccde814b5880",
+              "catName": "Insulated food service counter",
+
+  "catId": "9ab55574-a007-4fd3-ac5c-d751557a89de",
+              "catName": "Food warming plate",
+
+"catId": "730e0a44-2944-455c-97cd-7068865fdb39",
+              "catName": "food and medicine share the same source",
+
+"catId": "29b5f61a-e809-400d-8305-38dc68fd6edf",
+              "catName": "Special medical foods",
+
+ "catId": "90ae4b0a-67e5-4739-9e41-ea8cf583f37a",
+          "catName": "Special medical formula foods",
+
+"catId": "30e7ad6e-75ee-41aa-b16e-ee73a9eb1d7d",
+              "catName": "special medical purpose formula food",
+
+"catId": "c58a13e8-6586-4092-baa0-40da12537752",
+              "catName": "food ration coupon",
+
+"catId": "6489dd41-9268-4c7d-8192-e0ddc86d2870",
+          "catName": "Online dining, food delivery, online restaurant services",
+
+"catId": "2da3623e-d350-4f11-abb6-0d78d6499a3f",
+      "catName": "Jingxi Supply Chain Center, Snack Foods",
+
+  "catId": "8212f090-fc80-4ea4-b124-c619fd3a17a8",
+              "catName": "Seafood snacks",
+
+   "catId": "57cdb9cf-3d51-41e7-9f86-2804f65718d5",
+          "catName": "convenience food",
+
+ "catId": "dda01a03-0e93-4ea1-8acb-ef65b854602b",
+              "catName": "Other convenient foods",
+
+"catId": "995fc038-4034-4339-a906-67915732e4b4",
+              "catName": "Food additives category",
+
+"catId": "f8120b18-a17b-4b62-ac11-19a7258c8dae",
+      "catName": "snack foods",
+
+
+    "catId": "7d5fcfe9-f5b1-4384-9328-fb811ef8f417",
+          "catName": "canned food",
+
+
+"catId": "70c8389b-af06-4320-8bc4-e17da9ba2e99",
+              "catName": "Canned seafood",
+
+
+  "catId": "62547439-3f90-47fd-aaf2-883891a987f3",
+          "catName": "seafood snacks",
+
+ "catId": "ddee0fed-8746-4348-81c9-b82f07800afd",
+              "catName": "Seafood snack gift package, gift box",
+
+ "catId": "0d005448-e6b5-4834-bf8d-88912fc393a0",
+          "catName": "Festive foods",
+
+    "catId": "6a09b617-97cb-459a-8215-8a33770ef491",
+              "catName": "Food culture",
+
+ "catId": "de7de47a-0653-4175-b1d5-85bbf9188374",
+              "catName": "Food safety",
+
+ "catId": "e18c2af7-8842-4e41-a61b-ed9f9231fc86",
+              "catName": "cooking, gourmet food",
+
+
+ "catId": "e5a7193e-ccdc-434d-ba1e-a141890f54ff",
+          "catName": "fast food, ready-to-eat meals",
+
+
+ "catId": "77bf7e4f-cdcb-4fe4-9fd0-692cbad122ae",
+          "catName": "Seafood, aquatic products",
+
+
+"catId": "f895af69-fa65-431e-8c55-dadeaba75e25",
+              "catName": "Seafood gift box",
+
+"catId": "570048ab-f088-4721-b6d5-bd3ea2e69ed6",
+              "catName": "seafood products",
+
+  "catId": "6e1d2938-9040-453b-8634-e9b2418cd246",
+              "catName": "Dried seafood,",
+
+"catId": "443c0292-d69b-4c84-b22f-3320347e8007",
+              "catName": "Low-temperature seafood dried goods",
+
+ "catId": "5bcd2930-e3b8-4f7a-a490-e2739e715c3d",
+              "catName": "seafood gift box",
+
+
+ "catId": "47a463e5-853d-4ff3-81a9-b4f4db766c85",
+      "catName": "Food and Beverage",
+
+  "catId": "d5be3dfb-d160-4553-9c6b-0752f2abbfd2",
+          "catName": "snack foods",
+
+ "catId": "d1ea4ab6-42f1-4e84-ad9f-63a3db4a19b6",
+              "catName": "seafood snacks",
+
+ "catId": "011db7e3-dc00-42ae-b8d5-07fce9aca616",
+          "catName": "Festive foods, gift vouchers",
+
+"catId": "4d770de9-74ea-4ca1-a120-f303248ea7a8",
+          "catName": "Imported food",
+
+ "catId": "b3b7d4ad-b350-4d8e-97db-577647a81372",
+              "catName": "convenience food",
+
+"catId": "38b43764-eba0-4f3a-a645-ab189e0819b8",
+              "catName": "Second-hand baby food maker",
+
+ "catId": "7a22f949-1129-4527-a286-f377e8a2fc86",
+              "catName": "Food storage",
+
+"catId": "b3931900-5af1-4446-a081-52a69b8c35e5",
+              "catName": "Baby food maker",
+
+"catId": "86f5d789-ff8b-4702-b70e-4190bf7ceb8b",
+          "catName": "nutritional complementary food",
+
+ "catId": "30c89293-0727-4dfa-87d6-03fcd5123ef3",
+              "catName": "food cover",
+
+ "catId": "e6d794b7-59e6-49d8-80a5-b7ee4ef78b9c",
+              "catName": "Seafood vouchers",
+
+
+  "catId": "36e34168-8a04-406d-b0f9-c4497f1a834b",
+          "catName": "health drinks",
+
+
+   "catId": "b5608ae8-737c-4313-a1a3-b0a238d023dd",
+              "catName": "Functional health drinks",
+
+ "catId": "e202499e-1030-4349-8797-217d3cae3085",
+              "catName": "Health tea drinks",
+
+"catId": "933612c9-f93e-4180-bb0c-c5bc6df381d3",
+              "catName": "Other health tea drinks",
+
+"catId": "77c4bd2b-b1b6-4e50-9176-96a516b646d7",
+          "catName": "drinking water",
+
+ "catId": "a21606a5-be0b-479c-91c2-308a49ebbfb1",
+              "catName": "Drinking natural water",
+
+"catId": "83087451-65f7-402e-8a1d-437b460e8d98",
+              "catName": "Fruit and vegetable juice/drinks",
+
+  "catId": "8d9b72fb-2967-4983-887b-131a8f5ec580",
+              "catName": "Ready-to-drink coffee",
+
+ "catId": "53047d37-8902-4eef-9af5-e614d71bcf74",
+              "catName": "Chilled drinks",
+
+"catId": "d63b5313-5514-409e-90fe-a4a8f7f6e902",
+              "catName": "drinking water",
+
+"catId": "ad661d42-4eaf-4e12-aacc-d9aa16813efc",
+          "catName": "Mixing drinks, Preparing cocktails",
+
+"catId": "50a04c9c-d4f8-4bc1-b1a2-4bfa93e05cce",
+              "catName": "Cocktails, Ready-to-drink beverages",
+
+"catId": "a53b0af1-aadf-4af4-8fd1-305410da61eb",
+              "catName": "Gaiwan, a traditional Chinese lidded bowl, used for brewing and drinking tea.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

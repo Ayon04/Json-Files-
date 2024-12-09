@@ -1,0 +1,242 @@
+  "catId": "f6c40309-f4ee-4d34-b726-8f8863f576f0",
+          "catName": "Food, home essentials",
+
+"catId": "ed199c68-bfc8-4584-b04c-87a3cabdcfbc",
+              "catName": "home theater",
+
+ "catId": "aa2ecbd6-9b28-4835-b79e-94dbb9247565",
+          "catName": "Home appliance service",
+
+ "catId": "7172362c-1a23-450f-a1df-063e25416247",
+              "catName": "Home appliance installation",
+
+ "catId": "27ff3df6-fca4-4809-bebf-db2dc74941fd",
+              "catName": "Home appliance repair",
+
+"catId": "f2fa333a-1ef0-4c88-87cd-fb6e92db2519",
+              "catName": "Home health check-up",
+
+"catId": "75949d7c-f90d-4156-aaa5-862fc2b3d50a",
+      "catName": "Home decoration materials",
+
+  "catId": "328965a7-60a5-48dd-b8f9-ea93ca9f8648",
+              "catName": "Smart Home",
+
+      "catId": "abc634e2-39be-4956-b151-58bffe261133",
+              "catName": "Home care",
+
+ "catId": "b1ee3554-18b2-40e5-8373-8e75b27081b1",
+              "catName": "Home installation",
+
+"catId": "3522843a-edff-416e-9b14-cb28f326b754",
+              "catName": "homemade drama",
+
+"catId": "b74eefdf-b853-4adb-b563-8424a024cecc",
+      "catName": "Home and daily use",
+
+"catId": "f19fde40-6ea1-438e-8cf2-ec665518ec7e",
+              "catName": "Creative home decor",
+
+  "catId": "83e667c4-0856-4891-bb54-2da874412b9b",
+              "catName": "Home furnishings",
+
+  "catId": "b81052e2-80a4-4e79-b58b-f5aee26118e6",
+              "catName": "Home life",
+
+ "catId": "3baf6b23-9245-4ef7-84ec-108876335764",
+          "catName": "Home furnishings",
+
+ "catId": "d350322c-e8a3-4aa0-b87e-6f440cd7c1d3",
+              "catName": "Home gardening",
+
+   "catId": "992ef9cf-6175-4e9b-8f17-993956cf0196",
+              "catName": "Home safety",
+
+ "catId": "5f6cc452-a54d-41de-a26b-ce4e7e692c3b",
+              "catName": "Home decoration, home furnishings",
+
+    "catId": "ee075830-fef7-4b23-89e3-376d074ef3aa",
+      "catName": "Home decor items",
+
+ "catId": "30ef33ea-5421-4fc3-ab6c-9e7c0e42082e",
+      "catName": "Home textiles",
+
+   "catId": "305ae420-727c-47d8-af4c-2968f4ba05de",
+              "catName": "Home decoration",
+
+     "catId": "590024fc-e768-431a-9b47-7b0a6727e734",
+          "catName": "Home education, parenting education",
+
+"catId": "24f97dd0-40ee-41e7-83d8-133fc44778f7",
+              "catName": "Second-hand smart home devices",
+
+    "catId": "59f790a0-1d87-4631-b0f1-d9a0dee70667",
+      "catName": "home textiles",
+
+"catId": "104a4e9a-c0e9-48b4-a261-f4f0a251cbe8",
+          "catName": "Home textiles",
+
+ "catId": "9458ce14-60d0-4860-88d8-d95abb9d5021",
+          "catName": "Clean home environment;",
+
+
+ "catId": "4aa0a96f-ebf8-4fd6-8cc2-43081e1b624c",
+              "catName": "landscape decoration",
+
+"catId": "8d96c044-b337-499b-bb24-4a4a432d018f",
+          "catName": "decorative materials",
+
+ "catId": "8194e3aa-7a47-465b-9aa5-f2954956351a",
+              "catName": "Christmas decorations",
+
+
+ "catId": "623b0872-2f7a-47b3-a571-164849746ef7",
+              "catName": "Halloween decorations",
+
+"catId": "28e80ee7-2026-46b0-b7db-81cb7c864ed4",
+              "catName": "Wall stickers, decorative stickers;",
+
+ "catId": "22a0a939-6d10-4df3-8938-933887cd8511",
+              "catName": "Decorative calligraphy and paintings",
+
+ "catId": "6473b768-edf8-4105-8fd3-bbcd37e37ab5",
+              "catName": "Festival decorations",
+
+"catId": "4eaacd70-8dd9-4d9c-a328-6c360ed7c0d6",
+              "catName": "Clock decoration",
+
+   "catId": "502b75e9-18d5-4fd4-a14e-d77bb81e4fcf",
+              "catName": "Wall decoration",
+
+
+"catId": "616e30d6-2346-4642-abf6-2860a8aaec98",
+              "catName": "decorative glasses, ornamental eyewear",
+
+
+
+"catId": "5d1c28d1-70bb-4549-b46d-b4ad58d8ba66",
+              "catName": "Decoration, renovation",
+
+
+
+ "catId": "3f696608-702c-4cf0-87ec-aacad66aa56f",
+              "catName": "Interior design, decoration, renovations",
+
+ "catId": "d999cfff-6aad-4a6c-8cc9-995984c16fab",
+              "catName": "Christmas decorations",
+
+
+ "catId": "1354acd2-6f0c-4b87-a29e-c69edf33fb2d",
+          "catName": "Decoration",
+
+"catId": "d9c3060c-7dea-4e61-b5ec-edf8d2623ba1",
+              "catName": "Decorative signboard",
+
+"catId": "4fe00bcd-f014-4a2e-b666-64aeb64d590e",
+              "catName": "Other decorations",
+
+"catId": "cc3d9a5a-1b26-4700-bded-1c06e32a2888",
+          "catName": "decorative painting",
+
+ "catId": "b9acf319-c82e-49d5-a464-e9f1658047bd",
+              "catName": "Modern decorative painting",
+
+"catId": "b88e7f19-b4f4-4b87-97cb-70f39b7a95e7",
+              "catName": "Hanging decorations in the air",
+
+ "catId": "e313fa7b-e4f6-4841-8b02-ac7bda511c11",
+              "catName": "ribbon decorations, ribbon streamers",
+
+ "catId": "3f7c503f-ebf6-4a1d-b0d4-bc287227b792",
+              "catName": "Decorative plate, wall plate",
+
+"catId": "7647cbc9-e5aa-4704-a43f-a76e7f96daf1",
+              "catName": "Desktop decorative item",
+
+"catId": "1f963ffc-c55e-4120-a04c-d579c2ffdba4",
+          "catName": "Vase, artificial flowers, decorative faux items",
+
+
+ "catId": "dd2448ea-a66c-44d1-9055-de76d62a80a9",
+              "catName": "flower rack/decorative rack",
+
+"catId": "3baecf8c-2d5c-421c-8378-0ec2d3e0b76d",
+          "catName": "Car decoration;",
+
+  "catId": "c9a9ffa3-1fa4-4d26-8eca-824b932c0a4d",
+              "catName": "Car decorative lights",
+
+
+ "catId": "f158ba87-4bb5-4d99-b6b4-60be50a28c27",
+              "catName": "Door handle decoration",
+
+
+"catId": "c567a998-a5be-4531-b343-6be8ca76c7e5",
+              "catName": "Tea pet decoration",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

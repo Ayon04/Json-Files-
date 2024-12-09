@@ -1,0 +1,128 @@
+ "catId": "e8f610e2-6a5a-48e3-a741-81d39fa68fe0",
+          "catName": "Raw materials",
+
+ "catId": "18beb6be-e5fd-4899-a1e7-1631e7137671",
+              "catName": "Petrochemical raw materials",
+
+ "catId": "0854e372-2b5f-4bb8-b248-e02731333bfd",
+              "catName": "Basic raw materials",
+
+"catId": "999597fa-759a-4431-ad7b-53dee4af233f",
+              "catName": "Horticultural auxiliary materials",
+
+  "catId": "760fa795-c4e6-4d86-93dd-aed8b12b85f2",
+          "catName": "Infrastructure materials",
+
+"catId": "f56bd404-422a-453e-8659-0a297fd23cee",
+              "catName": "infrastructure auxiliary materials",
+
+ "catId": "9c2e9759-cc09-4856-85f9-4024d6daf7f6",
+              "catName": "Coating chemical auxiliary materials",
+
+ "catId": "b6d962f8-0043-47e4-bc2d-02774a724533",
+          "catName": "Wall and floor materials",
+
+"catId": "53b0f8b1-7a2e-4ace-8b43-94c479da28b2",
+          "catName": "Electrician materials, electrical supplies",
+
+"catId": "4eefcd7b-e57f-43ed-ab2e-ba7accb55f95",
+              "catName": "Sewing/knitting materials",
+
+  "catId": "641f74f1-abee-4363-a038-ee538bf806fe",
+          "catName": "Art supplies, drawing materials",
+
+ "catId": "9b070cda-6ac0-49fa-9516-b9ec1277d4ed",
+              "catName": "Adsorption materials",
+
+"catId": "557bdc47-6135-44d3-90dd-c19af21ba2d5",
+              "catName": "Industrial pipe materials",
+
+ "catId": "189367f3-844a-443c-a151-dc8399e7042f",
+              "catName": "Electrical auxiliary materials",
+
+ "catId": "4212f8de-250f-4291-b31b-aa01fa2ea8db",
+          "catName": "Industrial pipe materials",
+
+ "catId": "6782f800-52f3-438e-bb6d-d53884127993",
+              "catName": "Welding materials",
+
+"catId": "a340ef9b-5509-49f9-955f-4139d7714257",
+              "catName": "Packaging materials",
+
+ "catId": "f572f620-7614-4c76-b73e-c76c029740e5",
+          "catName": "Joint guarantee materials",
+
+  "catId": "bf5ba01f-1030-4626-87bb-92571f3e0bb1",
+              "catName": "reference books, reference materials",
+
+"catId": "3ec4582c-3048-4edb-9588-ab98f505f2b3",
+          "catName": "Textbooks and supplementary materials for higher vocational and technical education",
+
+ "catId": "bf8b3dab-fad7-44c8-8468-ba72b5c2d292",
+              "catName": "Vocational training materials",
+
+ "catId": "82943aba-d8db-449c-8f3d-67546025551c",
+              "catName": "Paper products, printed materials",
+
+"catId": "51491558-537f-452b-ba90-4d22d0b6b979",
+              "catName": "art supplies, painting materials, sculpture",
+
+ "catId": "0587fe59-6823-4730-93c3-1d52edc06726",
+              "catName": "Building materials",
+
+  "catId": "7bfe098f-8937-4c67-9f60-d289873b8e02",
+              "catName": "Textbooks and supplementary materials for architecture,",
+
+  "catId": "d242862e-c6fc-4e37-99b1-cbc10774b09e",
+              "catName": "Textbooks, supplementary materials",
+
+"catId": "e8036eb5-099a-43eb-b3d2-c256bdd009d9",
+              "catName": "Art supplies, drawing materials",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

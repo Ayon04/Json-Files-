@@ -1,0 +1,596 @@
+ "catId": "3058ae8b-1466-4d93-98e0-528cc37a24cb",
+              "catName": "Doll toy accessories",
+
+ "catId": "7a72dbe3-eead-4ef2-a42c-085437eca3ab",
+          "catName": "Musical instrument accessories",
+
+"catId": "23a52660-62e4-42d2-b2b2-77b1bb8ceed5",
+              "catName": "Other musical instrument accessories",
+
+ "catId": "3c2f3966-3555-4128-90c0-1db640941db1",
+              "catName": "Musical instrument accessories",
+
+ "catId": "144af69e-0a57-4996-a90c-56855339afa8",
+              "catName": "Remote control, electric toy accessories",
+
+ "catId": "9306eddb-ae09-4b50-bb96-9d5418f95802",
+              "catName": "Filter materials, accessories",
+
+  "catId": "34e48ec6-7cd7-43f2-a61b-8d840f64c3b0",
+              "catName": "Pet accessories",
+"catId": "a961a767-09a7-4685-a924-2fd674ece110",
+              "catName": "Commercial appliance accessories",
+
+ "catId": "65f6edf8-8af2-4908-b431-3f9d49c8b584",
+              "catName": "Coffee machines and related accessories",
+
+"catId": "fa78884a-8190-4037-80ab-64892247d98e",
+          "catName": "Appliance accessories",
+
+ "catId": "f14bcf29-4b13-42d0-af88-c80f73bdcf10",
+              "catName": "Kitchen and bathroom appliances accessories",
+
+  "catId": "9ec1b9c4-7bde-478c-9a2e-a080cc0c81e2",
+              "catName": "Refrigerator accessories",
+
+  "catId": "a997a4bf-96f4-4dab-a469-8a13bd14ccee",
+              "catName": "air conditioning accessories",
+
+ "catId": "46e6ab3a-011c-48c6-9430-e88e33a6a818",
+              "catName": "Range hood and stove accessories",
+
+"catId": "69dc2bcd-3406-4e2a-a0f8-a56f42d2b5a9",
+              "catName": "kitchen small appliance accessories",
+
+ "catId": "b59d6c5f-57f7-4849-9897-64f32f20451c",
+              "catName": "Household appliance accessories",
+
+"catId": "19fc392c-c662-4bae-93fe-c63c81c567fd",
+              "catName": "Personal care health accessories",
+
+ "catId": "a28e9964-6fe9-4570-96de-c9813acf8be4",
+              "catName": "kitchen and bathroom accessories",
+
+ "catId": "397f27f4-4090-4b80-8158-3e8d0ceb1fe6",
+              "catName": "kitchen and bathroom accessories,",
+
+ "catId": "cbb0fe47-d9a2-460e-9404-3028b2397350",
+              "catName": "Electrical components, accessories.",
+
+   "catId": "bbabe376-c255-4eee-be81-02f3614c8197",
+              "catName": "Lighting accessories",
+
+ "catId": "909512c6-a2a0-42a2-8c96-340566c139cc",
+              "catName": "tool accessories",
+
+ "catId": "5084ccfe-2992-4112-a569-de52076daf3e",
+              "catName": "Eyewear accessories",
+
+  "catId": "6b253a21-02dc-454f-832b-decc4d0b7fd9",
+          "catName": "Bags, leather goods, accessories",
+
+   "catId": "4da43752-c189-41ef-ad4a-ba6f401a6ed2",
+              "catName": "luggage accessories",
+
+"catId": "90622638-ffe4-4975-8ac9-c1e7a845d7d5",
+              "catName": "Travel accessories",
+
+"catId": "548b5976-ff67-4bf8-8d39-581b470d1b54",
+          "catName": "Home decor accessories",
+
+ "catId": "7bcf5473-57b4-41cb-95d2-495c0c889b28",
+              "catName": "decorative ornaments, decorative accessories",
+
+"catId": "6ac9dcf2-8e38-41ef-b05b-f4309a10fbd1",
+              "catName": "Handmade accessories",
+
+"catId": "3adde574-8253-441d-b0aa-db8690d61ec3",
+              "catName": "Home decor accessories",
+
+   "catId": "5891176e-382c-4a58-8c3d-919d43f8b6dd",
+          "catName": "Electric vehicle accessories",
+
+"catId": "94a5e6dc-b271-449a-97a4-9e04d31ad749",
+          "catName": "motorcycle accessories",
+
+ "catId": "74fc7ab9-be0b-4fef-9ab5-160dede73370",
+              "catName": "Writing accessories",
+
+  "catId": "d82cf98e-e25a-43c5-b9f5-d7dc15558e30",
+              "catName": "Apple accessories",
+
+"catId": "847464ea-f1f0-4f96-b0af-f3a184a6dfd6",
+              "catName": "DSLR accessories",
+
+"catId": "53108d03-10e3-44e7-9baa-0bcba726b0d1",
+          "catName": "Digital accessories",
+
+   "catId": "83e2b2b1-91fe-47f7-a2fd-3c7b51d958ea",
+              "catName": "lens accessories",
+
+ "catId": "204b6c88-b78a-4dc6-8a65-171c5ff725b9",
+              "catName": "Smartwatch accessories",
+
+"catId": "8195b1c5-08f7-439a-9875-35f2408b809f",
+              "catName": "Photography accessories",
+
+ "catId": "b86407f9-ca79-4e51-a7ff-822a57c4b02c",
+              "catName": "Headphone accessories",
+
+ "catId": "4e71ff80-9443-4abf-b0b0-eb463940870e",
+              "catName": "MP3/MP4 accessories",
+
+"catId": "25922326-2dce-4e32-9542-decda2f761b2",
+              "catName": "Body accessories",
+
+ "catId": "015c2b72-f6f8-4200-a1ec-66f302fe9323",
+              "catName": "Smart wristband accessories",
+
+"catId": "3e58c8e6-70a5-41a6-8d90-1055f058e9ea",
+              "catName": "Smart accessories",
+
+ "catId": "fb3cca52-a468-428f-b110-da12a68ac8c1",
+              "catName": "Other accessories",
+
+"catId": "3424463c-e351-4233-b2c8-ff64fefc2283",
+              "catName": "Sliding rails and their accessories",
+
+  "catId": "5fae18cc-5bdf-465c-a64d-bc07ec694efb",
+          "catName": "electrical accessories",
+
+"catId": "36f178a7-0411-4e0d-9ca0-2664d9e2a9de",
+              "catName": "Other electrical materials and accessories",
+
+ "catId": "f77ee36f-7c5d-4920-b772-07b63f98fdb5",
+              "catName": "Steel wire rope and accessories",
+
+ "catId": "6a497651-4fb6-4b0c-b6c2-3f503dabd847",
+              "catName": "Metal processing accessories",
+
+"catId": "a01710f4-35ac-4ff0-a1b3-f3919bd8d495",
+              "catName": "Sunscreen accessories",
+
+ "catId": "e3bd54dc-772b-4fc1-ac6f-0963a94e2600",
+              "catName": "Lingerie accessories",
+
+   "catId": "4ab72e28-28a0-4ef2-90b5-3197f404d0e8",
+              "catName": "Shoe accessories",
+
+ "catId": "e774b9d9-3a15-466e-8c46-8b36dc616101",
+              "catName": "Walkie-talkie accessories",
+
+  "catId": "7a533b54-101a-46f5-bd82-ee7f3fbefdf8",
+          "catName": "Mobile accessories",
+
+"catId": "8ad687ba-1200-452d-a176-84e47e12751e",
+              "catName": "Creative accessories",
+
+  "catId": "627302e7-5e7e-48d2-b740-b3366c67e69b",
+              "catName": "Phone accessories",
+
+ "catId": "c95f1d92-5daf-4153-bdc2-6a68e0343615",
+              "catName": "Mobile game accessories",
+
+ "catId": "67e979df-dcb1-4cb1-8cfc-c3999933dfc0",
+              "catName": "Apple accessories",
+
+ "catId": "e7c2e0db-4ea9-4c3a-80ab-ef3e80793dab",
+              "catName": "Photography accessories",
+
+"catId": "bdd1f6e1-3218-4cce-88b7-2be1e158c3a2",
+          "catName": "Creative accessories",
+
+  "catId": "f5fff2cf-c366-4316-b3f2-3cb9255a5417",
+              "catName": "Other creative accessories,",
+
+"catId": "2e10c90e-4f96-4672-b776-95fa5d1acc5d",
+          "catName": "Curtains, door curtains, and accessories",
+
+ "catId": "66579a1f-f470-4717-a303-2b898fa666d5",
+              "catName": "Sewing DIY accessories, materials, embellishments",
+
+ "catId": "2d76ec1f-90ee-419e-ac63-1716f1e9aa07",
+              "catName": "Other bathroom accessories",
+
+"catId": "79126f98-671b-4e2a-87cc-aa57c7e2a18d",
+          "catName": "Lighters, smoking accessories",
+
+"catId": "fc1881c1-c1a5-4306-8bbb-3c5144c8a31a",
+              "catName": "Cigar accessories",
+
+"catId": "c222fc0b-0cd7-40ed-a46d-40d8842f38f6",
+              "catName": "Pipes and accessories",
+
+"catId": "617a8dcb-9d39-4b14-8678-8adf5629493f",
+              "catName": "Accessories",
+
+"catId": "802fb035-8efe-4a29-a3e3-d18614c4bbb2",
+              "catName": "accessories",
+
+ "catId": "70fd6f70-2a09-4e7e-8ce0-ae12eb1309f0",
+              "catName": "Floral accessories",
+
+   "catId": "31c4655e-b764-42f9-bf02-315e214fb2ee",
+              "catName": "Computer chair accessories",
+
+   "catId": "3a753256-6e51-488a-9764-89b839b1b31e",
+              "catName": "bed accessories",
+
+"catId": "8bce6b2d-35e5-42ec-a913-fcb56af34f2a",
+              "catName": "Children's furniture accessories",
+
+ "catId": "306beca9-9817-401f-9d0c-84dd5d08ce2d",
+              "catName": "Sofa accessories",
+
+"catId": "f46fe5e0-5601-46e6-99e6-48c72b7f09ef",
+      "catName": "automotive accessories",
+
+"catId": "9ce930f6-6055-4eb8-8bb0-23f1712b338f",
+              "catName": "Other functional accessories",
+
+
+  "catId": "959de792-00eb-4891-ad6b-ed8f78c48192",
+              "catName": "Car lamp accessories",
+
+"catId": "ad05c419-d93f-41fa-805e-24643d114ee2",
+          "catName": "Military and police vehicle products/accessories",
+
+  "catId": "1ac31fe7-f4a8-439b-b0e3-536744d6ce95",
+              "catName": "Modification accessories"
+
+ "catId": "ae8ac9f7-a76f-4c27-b788-6ecdc8bad86f",
+              "catName": "Car wash accessories",
+
+
+ "catId": "60eee55d-7dc2-449f-b698-b836894487e9",
+              "catName": "Other motorcycle accessories",
+
+"catId": "49861315-2568-4c33-8909-6f717339e108",
+          "catName": "Military and police vehicle products/accessories",
+
+        "catId": "17d0158f-05ac-4ca3-92e0-2cbf68ec6426",
+              "catName": "Eyewear accessories, care agents",
+
+ "catId": "eb4fa2be-a650-4b63-975e-c8d6048aa84a",
+          "catName": "Used mobile phone accessories",
+
+"catId": "d3e500a5-2773-482d-b81d-6142974c6ebc",
+              "catName": "Second-hand outdoor accessories",
+
+
+"catId": "90c058d2-a390-4ecc-a954-689773ca0ae7",
+              "catName": "Second-hand laptop accessories",
+
+
+  "catId": "7a9a832b-5fe7-4c45-8a5f-e1e96b79f8ff",
+          "catName": "Second-hand digital accessories",
+
+
+ "catId": "083cceec-9ccb-4b90-ad4f-b4ef50db061d",
+              "catName": "Baby stroller and crib accessories",
+
+ "catId": "e731defa-3954-4775-a284-3dec7ba7c6be",
+              "catName": "Anti-collision/Protective Accessories",
+
+ "catId": "29d22423-4680-401a-a083-6759fc8c2ff6",
+              "catName": "Children's accessories",
+
+"catId": "6c9710a4-d161-406b-834f-d08334deeb57",
+      "catName": "Jewelry, accessories",
+
+ "catId": "72efeb5a-bbc2-4ac5-a100-ae880393d688",
+          "catName": "Fashion accessories",
+
+"catId": "3e11aceb-858d-45c2-9d20-a93c4c861300",
+              "catName": "Accessories, ornaments",
+
+
+ "catId": "674e9037-6ba3-407e-afad-b6eb68f12a6c",
+              "catName": "wedding decorations, wedding accessories",
+
+
+  "catId": "df2b645e-a2ad-4c55-b3b6-3d3ea16e5af7",
+          "catName": "Hair accessories",
+
+ "catId": "867ed2f9-76c9-45d6-ac36-612b320f5892",
+              "catName": "Silver ear accessories",
+
+ "catId": "eb787c6d-9468-49e3-8102-573f96b043ec",
+              "catName": "Fishing accessories",
+
+ "catId": "93a44e1b-220f-450c-acca-ac2ad1b1f78b",
+              "catName": "Other fishing accessories;",
+
+"catId": "af8d63b5-2df4-4fdf-b0ed-471257078571",
+              "catName": "Other billiard accessories",
+
+
+ "catId": "ba5b4a3e-ac20-4beb-b3b0-9f0f1839fc74",
+              "catName": "Sports accessories",
+
+
+   "catId": "df1e2424-e1ad-4f0f-ad92-3d90db7ceb3a",
+              "catName": "Ski accessories",
+
+  "catId": "47aa3649-6d69-44d0-aa24-6c329ac4245d",
+              "catName": "Other yoga accessories",
+
+ "catId": "1a410f7b-7e75-4972-b420-ae00288ae2b9",
+              "catName": "Other dance accessories",
+
+ "catId": "c6fee846-5418-4341-b4ee-675df51dca5b",
+              "catName": "Bicycle accessories",
+
+  "catId": "d5801842-c886-4939-8e62-d02a1339152d",
+              "catName": "Outdoor accessories",
+
+   "catId": "8ed3911a-b59b-44e0-8abc-ba84ae927c5e",
+          "catName": "swimming gear, swimming equipment, swim accessories",
+
+ "catId": "f2c8901a-0527-41cb-bb44-828e68dca964",
+              "catName": "swimming accessories",
+
+   "catId": "07760db5-3034-439e-b055-baf602be8479",
+          "catName": "kitchen accessories",
+
+ "catId": "1f856eb7-52b5-43f7-9f2d-4b03c3ee33a8",
+          "catName": "Coffee accessories",
+
+    "catId": "406d2736-a690-487d-8751-97cdf2481a89",
+              "catName": "Coffee accessories,",
+
+"catId": "cb767d02-abbd-4c15-8e4b-c52c8fb7fc56",
+              "catName": "Tea accessories",
+
+   "catId": "349029d3-e15e-4628-a022-b9754e1253de",
+              "catName": "Waterware / Wineware Accessories",
+
+ "catId": "aabee2b4-8b9a-4602-ae98-92024ac8765c",
+          "catName": "Clock accessories",
+
+  "catId": "6ba4f8fd-bc58-4dd6-9014-0582284c4a7b",
+              "catName": "Clock accessories",
+
+"catId": "a7ab9ab7-f08b-4de3-bfe6-ebbb92b68808",
+              "catName": "Cleaning tool accessories",
+
+  "catId": "10b64d3a-e912-420b-94e4-86bc24e2430f",
+              "catName": "projector accessories",
+
+"catId": "336dceaa-3198-4e2d-9bbc-4d56c9507f95",
+              "catName": "Network accessories",
+
+"catId": "68a0e80d-662c-408b-aa3f-841ef48528cd",
+              "catName": "Notebook accessories",
+
+"catId": "8594139d-b784-4450-8316-cffaef14c675",
+              "catName": "Tablet accessories",
+
+ "catId": "3ee16c6a-91a8-4bfb-9519-44993dee7093",
+              "catName": "Monitor accessories",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

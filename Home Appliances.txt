@@ -1,0 +1,9 @@
+"catId": "0a383e16-597b-4ecb-b09d-6856dfa2cc4d",
+      "catName": "Home appliances",
+
+
+  "catId": "d7918e93-c3b8-415d-85fa-09600e8d2eae",
+          "catName": "Home appliances",
+
+  "catId": "2988e4d9-23d3-4f8f-905e-7ef0ecacc796",
+          "catName": "home appliances",

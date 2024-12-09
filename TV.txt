@@ -1,0 +1,18 @@
+"catId": "b9cb987a-25b0-4c7f-805b-0514e781d68e",
+"catName": "TV accessories",
+
+"catId": "32ee132e-fd8e-4199-9c54-f2e857a9e115",
+"catName": "ESD suppressor, TVS diode",
+
+
+"catId": "04592dd5-eb24-4a01-806f-f38ff07293f7",
+"catName": "Rosewood TV cabinet",
+
+ "catId": "b478cc63-96d4-432d-b2ba-10f00c90a0eb",
+              "catName": "TV cabinet",
+
+ "catId": "a8ab4b47-2624-4a3d-a133-84d1018712cf",
+              "catName": "TV series,",
+
+ "catId": "23629d07-9b1a-406c-8e7a-6d7808463040",
+ "catName": "Second-hand flat-screen TV",

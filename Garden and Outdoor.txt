@@ -1,0 +1,197 @@
+"catId": "4d03b7ad-af82-4cdc-b889-e7e3263f6e57",
+          "catName": "Gardening life",
+
+ "catId": "b48ecbca-c9ee-4688-a93f-51c4c55d4851",
+              "catName": "Garden services",
+
+"catId": "1d9667ae-f8df-4fec-8aec-90462ca26dc2",
+          "catName": "Gardening supplies",
+
+  "catId": "aa6775f0-7e86-477c-aef5-f3ef3f7d33d9",
+              "catName": "Gardening support,",
+
+ "catId": "669ca42e-db80-4c56-afa2-70f7de139936",
+              "catName": "gardening tools",
+
+"catId": "3d649e52-dc62-482d-9f0d-4460887acb71",
+          "catName": "Painting, DIY, Outdoor, Dolls, Pretend Play",
+
+ "catId": "b5d42bb0-4c45-4eb1-8230-c5dec324e2d5",
+              "catName": "Outdoor toys, sensory integration toys, playground equipment",
+
+"catId": "f0345243-dc04-480d-9668-4216880d575e",
+          "catName": "Outdoor toys, play equipment",
+
+"catId": "3ac4b10d-502a-45cc-b1f4-4676ce49cc64",
+              "catName": "Other outdoor toys",
+
+   "catId": "0eb80def-4f3e-473c-a29d-bf4f61cc83dc",
+              "catName": "Outdoor gear,  outdoor equipment,  outdoor supplies",
+
+ "catId": "9a951992-c3c2-446a-9ea0-16ba511fafcf",
+              "catName": "air conditioning outdoor unit",
+
+  "catId": "98cbf9f4-26e7-49e2-93aa-e789fbc53d68",
+              "catName": "Outdoor/Patio Lights",
+
+  "catId": "542bdafe-b1fb-43a1-a1ba-5467b31dc5a8",
+              "catName": "outdoor equipment",
+
+  "catId": "0e9a1505-3237-4c25-a607-f7b0484f0d0b",
+              "catName": "Energy storage, outdoor power supply",
+
+ "catId": "fe4727d8-227a-42e4-a453-d184e77372a2",
+              "catName": "outdoor storage box",
+
+"catId": "01644499-01fd-4a27-be58-34ad977eb7c3",
+              "catName": "Outdoor adventure",
+
+ "catId": "012f754f-bd23-4d2d-ad28-e9e258be588d",
+              "catName": "Outdoor/patio ornaments",
+
+     "catId": "072bab5d-7ab6-4b59-9397-20292346db2a",
+          "catName": "Balcony, outdoor",
+
+   "catId": "84d683f7-2af4-4312-9b80-76488c4875d0",
+              "catName": "Outdoor furniture",
+
+  "catId": "94c960dc-9d8c-4da4-917d-d361571515d3",
+              "catName": "Other outdoor furniture",
+
+"catId": "73d173e5-e0a8-4bd4-b0a9-9d8ef534ae95",
+          "catName": "Outdoor furniture",
+
+   "catId": "0d30cb57-1cbe-4a04-9934-a6eb5370c578",
+              "catName": "Outdoor bench/stool",
+
+ "catId": "e857499e-a6be-4fce-86bf-aa2f42b7420a",
+              "catName": "Outdoor table and chair set",
+
+ "catId": "73e471c6-12d1-4e56-a111-357723deddf3",
+              "catName": "Other outdoor furniture",
+
+ "catId": "4300f171-01d0-42da-9ad6-62e583817bc6",
+              "catName": "Other outdoor furniture",
+
+ "catId": "fbb11830-299d-4e15-bb4b-a4e3d4706c0e",
+              "catName": "Outdoor sofa",
+
+   "catId": "f4e00cd3-fbd6-449f-b146-682af326b56f",
+          "catName": "second-hand outdoor gear",
+
+       "catId": "cfa070ee-7528-4596-9739-f03923cd1d86",
+          "catName": "Second-hand outdoor footwear and apparel",
+
+  "catId": "364a4495-dc6c-4bbc-8001-3e45f935660b",
+              "catName": "Outdoor/Sportswear",
+
+"catId": "1ea72f08-fc93-46ef-b8e5-ed3ba1a84215",
+      "catName": "Outdoor sports",
+
+
+ "catId": "08d95b33-1332-4a67-b77c-7d353db42c77",
+              "catName": "Outdoor T-shirt",
+
+"catId": "472f06b1-00cc-4525-8d2d-0500e1b09c8c",
+              "catName": "outdoor socks",
+
+"catId": "bba8d37d-729d-4b01-abbc-3696050f966d",
+              "catName": "Outdoor windbreaker",
+
+"catId": "3c054b56-47ea-41f3-8584-3c7c3808e249",
+              "catName": "outdoor work shoes",
+
+   "catId": "740af3cc-057f-466a-8abf-f2297574c567",
+              "catName": "outdoor snow boots",
+
+ "catId": "9dc92aaa-719f-4b2c-9e6d-695fe8913d75",
+              "catName": "outdoor casual shoes",
+
+  "catId": "0d1dcdbc-c876-4a4e-b086-30a3c880b176",
+          "catName": "Outdoor gear",
+
+ "catId": "0d4d509a-10f6-4678-aa22-d9fc8bdb64d0",
+              "catName": "Outdoor lighting",
+
+"catId": "b10d34d7-eb51-4495-8b09-077929d3afae",
+              "catName": "Outdoor camping vehicle",
+
+"catId": "a6ee8a4a-0d6b-4f89-8e04-d13920e0362b",
+              "catName": "Outdoor instrument",
+
+  "catId": "47c357bf-c0c7-4861-8d42-8e052a405daf",
+              "catName": "outdoor backpack",
+
+ "catId": "ae72dc69-bb72-40d2-acaa-c1eb345843d4",
+              "catName": "Outdoor tools",
+
+  "catId": "ae1f46d1-63cf-417e-b501-7368f78d8634",
+              "catName": "Extreme Outdoor Activities",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

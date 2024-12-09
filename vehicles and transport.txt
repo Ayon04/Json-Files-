@@ -1,0 +1,60 @@
+ "catId": "7366cf8f-cdcd-4d7b-af0e-9030dd9f9876",
+          "catName": "New Energy Vehicles",
+
+
+"catId": "8c86d56a-bf9a-421b-8bf0-eed787e14940",
+              "catName": "Pure electric vehicles",
+
+"catId": "82469272-747d-4c8d-9f95-7b4a640637e8",
+              "catName": "Cars and vehicles",
+
+ "catId": "d6d96294-9ccc-4acc-a204-6a536c9cbe21",
+              "catName": "Maintenance and repair of military and police vehicles",
+
+"catId": "1175bf4d-4353-43e3-a4fa-b64337f9c762",
+              "catName": "Transportation, lifting equipment",
+
+"catId": "57458836-61fc-41ad-b1d0-0e907fe7ac4c",
+      "catName": "Local life, travel, and transportation.",
+
+"catId": "41e4ab01-76ed-4603-93b3-94444247b6d6",
+          "catName": "Ground transportation ticketing",
+
+  "catId": "be0f2533-f377-44b9-aa2b-3d0ec06621ef",
+              "catName": "Joint Guarantee Transportation",
+
+  "catId": "d9ee54e8-657b-4d0c-97c1-1d10454f9e2c",
+          "catName": "Transportation and storage",
+
+ "catId": "5eca1937-900e-4a96-a255-efa2f8c5656f",
+              "catName": "Transportation",
+
+"catId": "515624ba-35c9-47d0-8bbb-ec3d26c37caf",
+              "catName": "Transportation services",
+
+ "catId": "fab9b1a4-1a6c-4e92-a85e-24d39240e0d9",
+              "catName": "golden transport bead",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
